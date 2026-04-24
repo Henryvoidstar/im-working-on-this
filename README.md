@@ -50,6 +50,7 @@ Explores water electrolysis for on-demand hydrogen/oxygen gas production
 Focus on efficiency, energy input vs. gas output analysis
 Modular cell concept designed for scalability testing
 Real-world applications include alternative fuel research, energy storage systems, and experimental clean energy development
+
 </details>
 
 <details>
