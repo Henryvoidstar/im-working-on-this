@@ -17,8 +17,10 @@ I’m especially interested in:
 <details>
   <summary>exo legs</summary>
 
-**Description:** A wearable lower-body exoskeleton designed to assist leg movement by storing and releasing energy during motion. The system uses a mechanical linkage and spring tension to reduce effort when walking or lifting. This matters because it explores low-cost, passive exoskeleton technology that can enhance human strength and endurance without requiring complex electronics.
-**Tech Used:** CAD design, mechanical linkages, extension/tension springs, prototyping using 3d printing, basic fabrication tools(drills, hex tools, etc)
+**Description:**
+A wearable lower-body exoskeleton designed to assist leg movement by storing and releasing energy during motion. The system uses a mechanical linkage and spring tension to reduce effort when walking or lifting. This matters because it explores low-cost, passive exoskeleton technology that can enhance human strength and endurance without requiring complex electronics.
+**Tech Used:** 
+CAD design, mechanical linkages, extension/tension springs, prototyping using 3d printing, basic fabrication tools(drills, hex tools, etc)
 **Highlights:**
 - Uses a hinge and spring system to store energy when the knee bends and release it during extension
 Fully passive design (no motors or batteries), making it lightweight and reliable
@@ -26,9 +28,13 @@ Unique belt-driven tension system connecting thigh and calf for efficient force 
 Real-world applications include load carrying, injury prevention, and mobility assistance
 ---
 </details>
+
+</details>
   <summary>HHO Gas Generation System V1</summary>
-**Description:**  hydrogen gas generation system designed to explore electrolysis-based production of HHO gas (a mixture of hydrogen and oxygen produced from water). The project focuses on studying energy efficiency, gas output potential, and practical applications of hydrogen as an alternative energy carrier. This matters because it investigates small-scale hydrogen production and its role in future clean energy systems.
-**Tech Used:**  electrical circuit design, prototype cell design, materials testing, basic CAD planning, 3d printing and laser cuting 
+**Description:** 
+hydrogen gas generation system designed to explore electrolysis-based production of HHO gas (a mixture of hydrogen and oxygen produced from water). The project focuses on studying energy efficiency, gas output potential, and practical applications of hydrogen as an alternative energy carrier. This matters because it investigates small-scale hydrogen production and its role in future clean energy systems.
+**Tech Used:** 
+electrical circuit design, prototype cell design, materials testing, basic CAD planning, 3d printing and laser cuting 
 **Highlights:**  
 Explores water electrolysis for on-demand hydrogen/oxygen gas production
 Focus on efficiency, energy input vs. gas output analysis
