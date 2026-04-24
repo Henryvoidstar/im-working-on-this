@@ -27,7 +27,7 @@ CAD design, mechanical linkages, extension/tension springs, prototyping using 3d
 
 **Highlights:**
 
-- Uses a hinge and spring system to store energy when the knee bends and release it during extension
+ Uses a hinge and spring system to store energy when the knee bends and release it during extension
 Fully passive design (no motors or batteries), making it lightweight and reliable
 Unique belt-driven tension system connecting thigh and calf for efficient force transfer
 Real-world applications include load carrying, injury prevention, and mobility assistance
