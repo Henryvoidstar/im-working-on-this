@@ -26,7 +26,7 @@ Unique belt-driven tension system connecting thigh and calf for efficient force 
 Real-world applications include load carrying, injury prevention, and mobility assistance
 ---
 </details>
-  <summary> HHO Gas Generation System V1 </summary>
+  <summary>HHO Gas Generation System V1</summary>
 **Description:**  hydrogen gas generation system designed to explore electrolysis-based production of HHO gas (a mixture of hydrogen and oxygen produced from water). The project focuses on studying energy efficiency, gas output potential, and practical applications of hydrogen as an alternative energy carrier. This matters because it investigates small-scale hydrogen production and its role in future clean energy systems.
 **Tech Used:**  electrical circuit design, prototype cell design, materials testing, basic CAD planning, 3d printing and laser cuting 
 **Highlights:**  
