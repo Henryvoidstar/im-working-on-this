@@ -12,8 +12,8 @@ I’m especially interested in:
 - Turning ideas into working prototypes
 
 ---
-
-## 🚀 Projects
+<details>
+  <summary>## 🚀 Projects</summary>
 
 ### 🔹 [Project Name]
 **Description:** Short, clear explanation of what it does and why it matters.  
