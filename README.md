@@ -14,8 +14,9 @@ I’m especially interested in:
 ---
 <details>
   <summary>## 🚀 Projects</summary>
+</details>
+<summary>## exo legs </summary>
 
-### 🔹 [Project Name]
 **Description:** Short, clear explanation of what it does and why it matters.  
 **Tech Used:** Python, Arduino, CAD, etc.  
 **Highlights:**
@@ -31,7 +32,7 @@ I’m especially interested in:
 **Tech Used:**  
 **Highlights:**  
 🔗 [View Project](link)
-
+<details>
 ---
 
 ## 🛠️ Skills
