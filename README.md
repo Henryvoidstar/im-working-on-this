@@ -52,39 +52,41 @@ Modular cell concept designed for scalability testing
 Real-world applications include alternative fuel research, energy storage systems, and experimental clean energy development
 </details>
 
+<details>
+  <summary>🛠️ Skills</summary>
 
-## 🛠️ Skills
 
 **Languages**
 - Python[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
 - JavaScript[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 - little bit of unity [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 - and MASTER HACKER [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+</details>
 
-
-**Tools & Tech**
+<details>
+  <summary>**Tools & Tech**</summary>
 - Git & GitHub
 - Fusion 360 / CAD
 - Raspberry Pi 
 - 3D Printing
 - Electronics / Soldering
+</details>
 
----
-
-## 📈 Current Focus
+<details>
+  <summary>📈 Current Focus</summary>
 - Building [new hho generator high (%60 or higher)efficiency]
 - Learning [ai training ]
 - Improving [software]
+</details>
 
----
-
-## 🎯 Goals
+<details>
+  <summary>🎯 Goals</summary>
 - Launch a real product
 - Build a full system (hardware + software)
 - Grow a portfolio that stands out
+</details>
+<details>
+  <summary>📫 Contact</summary>
 
----
-
-## 📫 Contact
 - Email: henryghart03@gmail.com
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/henryvoidstar
