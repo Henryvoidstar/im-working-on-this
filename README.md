@@ -1,4 +1,5 @@
-<section class="project-grid">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<section class="project-grid">\
     <div class="projects-intro">
         <h2>Featured Projects</h2>
         <p>Click any project to expand its details, see code links, and swap in your own work.</p>
