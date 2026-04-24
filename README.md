@@ -27,7 +27,7 @@ CAD design, mechanical linkages, extension/tension springs, prototyping using 3d
 Fully passive design (no motors or batteries), making it lightweight and reliable
 Unique belt-driven tension system connecting thigh and calf for efficient force transfer
 Real-world applications include load carrying, injury prevention, and mobility assistance
-
+</details>
 <details>
   <summary>HHO Gas Generation System V1</summary>
 **Description:** 
