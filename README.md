@@ -52,6 +52,7 @@ Modular cell concept designed for scalability testing
 Real-world applications include alternative fuel research, energy storage systems, and experimental clean energy development
 
 </details>
+</details>
 
 <details>
   <summary>🛠️ Skills</summary>
