@@ -30,11 +30,11 @@ Real-world applications include load carrying, injury prevention, and mobility a
 </details>
 <details>
   <summary>HHO Gas Generation System V1</summary>
-**Description:** 
+<span style="color:red;">**Description:**</span> 
 hydrogen gas generation system designed to explore electrolysis-based production of HHO gas (a mixture of hydrogen and oxygen produced from water). The project focuses on studying energy efficiency, gas output potential, and practical applications of hydrogen as an alternative energy carrier. This matters because it investigates small-scale hydrogen production and its role in future clean energy systems.
 **Tech Used:** 
 electrical circuit design, prototype cell design, materials testing, basic CAD planning, 3d printing and laser cuting 
-**Highlights:**  
+**Highlights:** 
 Explores water electrolysis for on-demand hydrogen/oxygen gas production
 Focus on efficiency, energy input vs. gas output analysis
 Modular cell concept designed for scalability testing
