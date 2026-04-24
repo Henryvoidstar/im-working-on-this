@@ -56,7 +56,36 @@ Real-world applications include alternative fuel research, energy storage system
 
 <details>
   <summary>🛠️ Skills</summary>
+pro eater[![Doordash](https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white)](#)
+🛠️ Skills
 
+**⚙️ Engineering & Design:**
+- CAD modeling (intermediate-pro)
+- Mechanical system design
+- Prototyping and fabrication
+- Structural design (fiberglass, EVA foam, composites)
+
+**🔌 Electronics & Systems:**
+- Basic electrical circuit design
+- Sensor integration concepts
+- System-level prototyping
+- Energy system experimentation (hydrogen/electrolysis concepts)
+
+**💻 Software & Programming:**
+- Python (basic–intermediate)
+- Computer vision (OpenCV basics)
+- AI/robotics concepts (Raspberry Pi / Jetson Nano planning)
+
+**🧪 Fabrication Tools:**
+- 3D printing
+- Laser cutting
+- Hand fabrication tools
+- Fiberglass layup and finishing
+
+**🧠 Design Thinking:**
+- Rapid prototyping
+- Problem-solving under constraints
+- Systems thinking (mechanical + electrical + software integration)
 
 **Languages**
 - Python[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
