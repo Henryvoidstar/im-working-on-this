@@ -14,6 +14,7 @@ I’m especially interested in:
 ---
 <details>
   <summary> 🚀 Projects</summary>
+  
 <details>
   <summary>exo legs</summary>
 
@@ -28,7 +29,8 @@ Unique belt-driven tension system connecting thigh and calf for efficient force 
 Real-world applications include load carrying, injury prevention, and mobility assistance
 ---
 </details>
-
+</details>
+  <summary>HHO Gas Generation System V1</summary>
 **Description:** 
 hydrogen gas generation system designed to explore electrolysis-based production of HHO gas (a mixture of hydrogen and oxygen produced from water). The project focuses on studying energy efficiency, gas output potential, and practical applications of hydrogen as an alternative energy carrier. This matters because it investigates small-scale hydrogen production and its role in future clean energy systems.
 **Tech Used:** 
