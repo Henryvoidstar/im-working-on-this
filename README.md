@@ -28,7 +28,7 @@ Fully passive design (no motors or batteries), making it lightweight and reliabl
 Unique belt-driven tension system connecting thigh and calf for efficient force transfer
 Real-world applications include load carrying, injury prevention, and mobility assistance
 ---
-</details>
+<details>
 </details>
   <summary>HHO Gas Generation System V1</summary>
 **Description:** 
@@ -40,8 +40,9 @@ Explores water electrolysis for on-demand hydrogen/oxygen gas production
 Focus on efficiency, energy input vs. gas output analysis
 Modular cell concept designed for scalability testing
 Real-world applications include alternative fuel research, energy storage systems, and experimental clean energy development
----
 </details>
+
+
 ## 🛠️ Skills
 
 **Languages**
