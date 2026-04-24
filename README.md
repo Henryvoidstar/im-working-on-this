@@ -57,7 +57,6 @@ Real-world applications include alternative fuel research, energy storage system
 <details>
   <summary>🛠️ Skills</summary>
 pro eater[![Doordash](https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white)](#)
-🛠️ Skills
 
 **⚙️ Engineering & Design:**
 - CAD modeling (intermediate-pro)
