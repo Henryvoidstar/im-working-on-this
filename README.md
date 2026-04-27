@@ -56,7 +56,7 @@ Real-world applications include alternative fuel research, energy storage system
 
 <details>
   <summary>🛠️ Skills</summary>
-pro eater [![Just Eat](https://img.shields.io/badge/Just%20Eat-F36D00?logo=justeat&logoColor=fff)](#)
+pro eater
 
 **⚙️ Engineering & Design:**
 - CAD modeling (intermediate-pro)
@@ -105,7 +105,7 @@ pro eater [![Just Eat](https://img.shields.io/badge/Just%20Eat-F36D00?logo=juste
 <details>
   <summary>📈 Current Focus</summary>
 - Building [new hho generator high (%60 or higher)efficiency]
-- Learning [ai training ]
+- Learning [ai training]
 - Improving [software]
 </details>
 
