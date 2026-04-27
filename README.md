@@ -7,7 +7,7 @@
 ## 🧠 About Me
 I’m a developer and builder focused on creating real-world solutions through technology.  
 I’m especially interested in:
-- [Your focus: robotics, engineering, game dev, etc.]
+- [robotics, engineering, game dev, etc.]
 - Building practical, high-impact projects
 - Turning ideas into working prototypes
 
