@@ -72,7 +72,6 @@ pro eater
 
 **💻 Software & Programming:**
 - Python (basic–intermediate)
-- Computer vision (OpenCV basics)
 - AI/robotics concepts (Raspberry Pi / Jetson Nano planning)
 
 **🧪 Fabrication Tools:**
