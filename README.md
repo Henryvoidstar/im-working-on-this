@@ -1,4 +1,4 @@
-peep hte website file:///Users/9708776/portfolio-site/theportpart2.html
+peep the website file:///Users/9708776/portfolio-site/theportpart2.html
 
 
 
